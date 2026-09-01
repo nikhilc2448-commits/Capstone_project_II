@@ -1,0 +1,3 @@
+Variable 1,Variable 2,Correlation,Interpretation
+Sales,Quantity,0.7458361030012752,Sales and Quantity have a strong positive relationship (r=0.75). This means higher values of one tend to occur with higher values of the other in this dataset. Correlation alone does not prove causation.
+Profit,Profit per Unit,0.679808293670277,Profit and Profit per Unit have a moderate positive relationship (r=0.68). This means higher values of one tend to occur with higher values of the other in this dataset. Correlation alone does not prove causation.

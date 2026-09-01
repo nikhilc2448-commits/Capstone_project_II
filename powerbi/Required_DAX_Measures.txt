@@ -1,0 +1,16 @@
+Total Sales =
+SUM(PowerBI_Merged_Analysis[Sales])
+
+Profit Margin =
+DIVIDE(
+    SUM(PowerBI_Merged_Analysis[Profit]),
+    SUM(PowerBI_Merged_Analysis[Sales]),
+    0
+)
+
+Average Profit per Order =
+DIVIDE(
+    SUM(PowerBI_Merged_Analysis[Profit]),
+    DISTINCTCOUNT(PowerBI_Merged_Analysis[OrderID]),
+    0
+)

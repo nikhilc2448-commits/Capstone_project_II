@@ -1,0 +1,8 @@
+Selected k = 4
+k=4 was selected because the elbow curve shows a clear improvement up to four clusters, while additional clusters give smaller incremental reductions in inertia.
+
+Cluster recommendations:
+- High-Value Customers: Protect retention with VIP treatment, loyalty benefits and personalized cross-sell offers.
+- Frequent Customers: Use replenishment reminders and loyalty incentives to increase basket value.
+- High-AOV Customers: Promote premium bundles and complementary products to grow high-value baskets.
+- Occasional / Lower-Value Customers: Use targeted reactivation campaigns and simple offers to encourage repeat purchases.

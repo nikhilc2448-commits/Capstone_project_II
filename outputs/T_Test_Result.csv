@@ -1,0 +1,2 @@
+Region 1,Region 2,t-statistic,p-value,Significance Level,Conclusion,Explanation
+East,North,-0.1587118730178811,0.8739356742186998,0.05,Fail to reject the null hypothesis at the 5% significance level.,"The p-value of 0.873936 is above 0.05, so there is not enough statistical evidence to conclude that mean Profit differs between East and North. This does not prove that the two regions have exactly equal profit; it only means the observed difference is not statistically significant at the chosen level."

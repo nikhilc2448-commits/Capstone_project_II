@@ -1,0 +1,31 @@
+CAPSTONE REVIEW NOTES
+
+Python / Power BI cross-check
+Total Sales from Python: ₹144,183,142.50
+Dashboard Total Sales should match: ₹144,183,142.50
+
+Sales measure decision
+Median: Median better represents Sales because the distribution is right-skewed (skewness 44.52), so a small number of high-value orders pull the mean upward.
+
+Sample comparison
+Sample 1 has a mean of ₹17,340.85, while Sample 2 has a mean of ₹20,278.70, compared with the full-data mean of ₹28,882.84. The samples contain only 50 orders, so random sampling can produce different mixes of low- and high-value orders; the larger the sample, the more stable the sample mean would generally be.
+
+T-test
+Compared East and North mean Profit.
+p-value: 0.873936
+The p-value of 0.873936 is above 0.05, so there is not enough statistical evidence to conclude that mean Profit differs between East and North. This does not prove that the two regions have exactly equal profit; it only means the observed difference is not statistically significant at the chosen level.
+
+Customer segmentation
+Selected k: 4
+k=4 was selected because the elbow curve shows a clear improvement up to four clusters, while additional clusters give smaller incremental reductions in inertia.
+
+KPI assessment
+Best-performing KPI: Repeat Customer Rate
+Repeat Customer Rate is the strongest customer-health KPI because 98.83% of customers with orders are repeat customers, indicating strong repeat purchasing behavior.
+
+Worst-performing KPI: Return/Cancel Rate
+Return/Cancel Rate is the clearest improvement opportunity because 13.92% of orders are cancelled or returned, which can create avoidable service and profitability pressure.
+
+Final totals
+Total Sales: ₹144,183,142.50
+Total Profit: ₹12,197,479.16

@@ -1,0 +1,597 @@
+CustomerID,Total_Sales,Order_Count,Average_Order_Value,Cluster,Cluster Name
+CUST0002,56710.0,6,9451.666666666666,0,Occasional / Lower-Value Customers
+CUST0003,225305.0,9,25033.88888888889,0,Occasional / Lower-Value Customers
+CUST0004,44825.0,4,11206.25,0,Occasional / Lower-Value Customers
+CUST0005,63680.0,4,15920.0,0,Occasional / Lower-Value Customers
+CUST0006,43780.0,3,14593.333333333334,0,Occasional / Lower-Value Customers
+CUST0007,777815.0,21,37038.80952380953,1,Frequent Customers
+CUST0008,19905.0,5,3981.0,0,Occasional / Lower-Value Customers
+CUST0009,82990.0,7,11855.714285714286,0,Occasional / Lower-Value Customers
+CUST0010,6345.0,2,3172.5,0,Occasional / Lower-Value Customers
+CUST0011,73890.0,4,18472.5,0,Occasional / Lower-Value Customers
+CUST0012,102447.5,10,10244.75,0,Occasional / Lower-Value Customers
+CUST0013,140915.0,5,28183.0,0,Occasional / Lower-Value Customers
+CUST0014,488870.0,15,32591.333333333332,1,Frequent Customers
+CUST0015,97752.5,14,6982.321428571428,1,Frequent Customers
+CUST0016,115105.0,7,16443.571428571428,0,Occasional / Lower-Value Customers
+CUST0017,180075.0,5,36015.0,0,Occasional / Lower-Value Customers
+CUST0018,654902.5,13,50377.11538461538,1,Frequent Customers
+CUST0019,228815.0,9,25423.88888888889,0,Occasional / Lower-Value Customers
+CUST0020,258320.0,11,23483.636363636364,1,Frequent Customers
+CUST0021,192662.5,11,17514.772727272728,1,Frequent Customers
+CUST0022,163710.0,5,32742.0,0,Occasional / Lower-Value Customers
+CUST0023,101400.0,5,20280.0,0,Occasional / Lower-Value Customers
+CUST0024,280685.0,14,20048.928571428572,1,Frequent Customers
+CUST0025,117080.0,8,14635.0,0,Occasional / Lower-Value Customers
+CUST0026,148087.5,10,14808.75,0,Occasional / Lower-Value Customers
+CUST0027,342440.0,5,68488.0,2,High-AOV Customers
+CUST0028,119240.0,7,17034.285714285714,0,Occasional / Lower-Value Customers
+CUST0029,306400.0,4,76600.0,2,High-AOV Customers
+CUST0030,67550.0,5,13510.0,0,Occasional / Lower-Value Customers
+CUST0031,496815.0,13,38216.53846153846,1,Frequent Customers
+CUST0032,18205.0,3,6068.333333333333,0,Occasional / Lower-Value Customers
+CUST0033,428940.0,6,71490.0,2,High-AOV Customers
+CUST0034,208135.0,8,26016.875,0,Occasional / Lower-Value Customers
+CUST0035,107375.0,5,21475.0,0,Occasional / Lower-Value Customers
+CUST0036,239887.5,8,29985.9375,0,Occasional / Lower-Value Customers
+CUST0037,122600.0,4,30650.0,0,Occasional / Lower-Value Customers
+CUST0038,107775.0,12,8981.25,1,Frequent Customers
+CUST0039,317150.0,16,19821.875,1,Frequent Customers
+CUST0040,167587.5,8,20948.4375,0,Occasional / Lower-Value Customers
+CUST0041,52507.5,9,5834.166666666667,0,Occasional / Lower-Value Customers
+CUST0042,245775.0,4,61443.75,2,High-AOV Customers
+CUST0043,81360.0,5,16272.0,0,Occasional / Lower-Value Customers
+CUST0044,395250.0,8,49406.25,2,High-AOV Customers
+CUST0045,149850.0,5,29970.0,0,Occasional / Lower-Value Customers
+CUST0046,244190.0,6,40698.333333333336,0,Occasional / Lower-Value Customers
+CUST0047,214977.5,14,15355.535714285714,1,Frequent Customers
+CUST0048,111897.5,7,15985.357142857143,0,Occasional / Lower-Value Customers
+CUST0049,216015.0,6,36002.5,0,Occasional / Lower-Value Customers
+CUST0050,66110.0,4,16527.5,0,Occasional / Lower-Value Customers
+CUST0051,234975.0,5,46995.0,0,Occasional / Lower-Value Customers
+CUST0052,150050.0,8,18756.25,0,Occasional / Lower-Value Customers
+CUST0053,92115.0,4,23028.75,0,Occasional / Lower-Value Customers
+CUST0055,88560.0,4,22140.0,0,Occasional / Lower-Value Customers
+CUST0056,151670.0,8,18958.75,0,Occasional / Lower-Value Customers
+CUST0057,391140.0,10,39114.0,1,Frequent Customers
+CUST0058,10440.0,4,2610.0,0,Occasional / Lower-Value Customers
+CUST0059,316402.5,8,39550.3125,0,Occasional / Lower-Value Customers
+CUST0060,80595.0,5,16119.0,0,Occasional / Lower-Value Customers
+CUST0061,618530.0,17,36384.117647058825,1,Frequent Customers
+CUST0062,223290.0,10,22329.0,0,Occasional / Lower-Value Customers
+CUST0063,154370.0,8,19296.25,0,Occasional / Lower-Value Customers
+CUST0064,226205.0,9,25133.88888888889,0,Occasional / Lower-Value Customers
+CUST0065,386230.0,12,32185.833333333332,1,Frequent Customers
+CUST0066,182830.0,9,20314.444444444445,0,Occasional / Lower-Value Customers
+CUST0067,312840.0,14,22345.714285714286,1,Frequent Customers
+CUST0068,199450.0,9,22161.11111111111,0,Occasional / Lower-Value Customers
+CUST0069,30280.0,3,10093.333333333334,0,Occasional / Lower-Value Customers
+CUST0070,19765.0,3,6588.333333333333,0,Occasional / Lower-Value Customers
+CUST0071,155550.0,2,77775.0,2,High-AOV Customers
+CUST0072,277280.0,7,39611.42857142857,0,Occasional / Lower-Value Customers
+CUST0073,447555.0,20,22377.75,1,Frequent Customers
+CUST0074,161100.0,7,23014.285714285714,0,Occasional / Lower-Value Customers
+CUST0075,1322815.0,15,88187.66666666667,2,High-AOV Customers
+CUST0076,101850.0,5,20370.0,0,Occasional / Lower-Value Customers
+CUST0077,199917.5,11,18174.31818181818,1,Frequent Customers
+CUST0078,26820.0,3,8940.0,0,Occasional / Lower-Value Customers
+CUST0079,278045.0,16,17377.8125,1,Frequent Customers
+CUST0080,821172.5,7,117310.35714285714,2,High-AOV Customers
+CUST0081,962830.0,18,53490.555555555555,1,Frequent Customers
+CUST0082,155870.0,5,31174.0,0,Occasional / Lower-Value Customers
+CUST0083,478352.5,17,28138.382352941175,1,Frequent Customers
+CUST0084,311355.0,3,103785.0,2,High-AOV Customers
+CUST0085,45180.0,3,15060.0,0,Occasional / Lower-Value Customers
+CUST0086,257930.0,5,51586.0,2,High-AOV Customers
+CUST0087,246865.0,8,30858.125,0,Occasional / Lower-Value Customers
+CUST0088,177587.5,11,16144.318181818182,1,Frequent Customers
+CUST0089,533000.0,8,66625.0,2,High-AOV Customers
+CUST0090,335840.0,12,27986.666666666668,1,Frequent Customers
+CUST0091,157650.0,4,39412.5,0,Occasional / Lower-Value Customers
+CUST0092,110600.0,6,18433.333333333332,0,Occasional / Lower-Value Customers
+CUST0093,159820.0,5,31964.0,0,Occasional / Lower-Value Customers
+CUST0094,154727.5,5,30945.5,0,Occasional / Lower-Value Customers
+CUST0095,151167.5,5,30233.5,0,Occasional / Lower-Value Customers
+CUST0096,177840.0,5,35568.0,0,Occasional / Lower-Value Customers
+CUST0097,90940.0,4,22735.0,0,Occasional / Lower-Value Customers
+CUST0098,237680.0,8,29710.0,0,Occasional / Lower-Value Customers
+CUST0099,173260.0,8,21657.5,0,Occasional / Lower-Value Customers
+CUST0100,426857.5,19,22466.184210526317,1,Frequent Customers
+CUST0101,82230.0,3,27410.0,0,Occasional / Lower-Value Customers
+CUST0102,209390.0,8,26173.75,0,Occasional / Lower-Value Customers
+CUST0103,405425.0,17,23848.529411764706,1,Frequent Customers
+CUST0104,193850.0,6,32308.333333333332,0,Occasional / Lower-Value Customers
+CUST0105,225190.0,8,28148.75,0,Occasional / Lower-Value Customers
+CUST0106,201520.0,13,15501.538461538461,1,Frequent Customers
+CUST0107,27645.0,4,6911.25,0,Occasional / Lower-Value Customers
+CUST0108,227290.0,9,25254.444444444445,0,Occasional / Lower-Value Customers
+CUST0109,11850.0,4,2962.5,0,Occasional / Lower-Value Customers
+CUST0110,97095.0,5,19419.0,0,Occasional / Lower-Value Customers
+CUST0111,209480.0,9,23275.555555555555,0,Occasional / Lower-Value Customers
+CUST0112,272215.0,10,27221.5,0,Occasional / Lower-Value Customers
+CUST0113,506200.0,8,63275.0,2,High-AOV Customers
+CUST0114,491277.5,17,28898.676470588234,1,Frequent Customers
+CUST0115,13250.0,2,6625.0,0,Occasional / Lower-Value Customers
+CUST0116,176040.0,3,58680.0,2,High-AOV Customers
+CUST0117,179200.0,6,29866.666666666668,0,Occasional / Lower-Value Customers
+CUST0118,44270.0,3,14756.666666666666,0,Occasional / Lower-Value Customers
+CUST0119,631075.0,24,26294.791666666668,1,Frequent Customers
+CUST0120,453657.5,10,45365.75,2,High-AOV Customers
+CUST0121,140145.0,11,12740.454545454546,0,Occasional / Lower-Value Customers
+CUST0122,90655.0,8,11331.875,0,Occasional / Lower-Value Customers
+CUST0123,266065.0,5,53213.0,2,High-AOV Customers
+CUST0124,46905.0,6,7817.5,0,Occasional / Lower-Value Customers
+CUST0125,77390.0,6,12898.333333333334,0,Occasional / Lower-Value Customers
+CUST0126,499087.5,13,38391.346153846156,1,Frequent Customers
+CUST0127,121360.0,6,20226.666666666668,0,Occasional / Lower-Value Customers
+CUST0128,467980.0,15,31198.666666666668,1,Frequent Customers
+CUST0129,298000.0,3,99333.33333333333,2,High-AOV Customers
+CUST0130,64970.0,6,10828.333333333334,0,Occasional / Lower-Value Customers
+CUST0131,188635.0,8,23579.375,0,Occasional / Lower-Value Customers
+CUST0132,93925.0,8,11740.625,0,Occasional / Lower-Value Customers
+CUST0133,58400.0,4,14600.0,0,Occasional / Lower-Value Customers
+CUST0134,5317.5,3,1772.5,0,Occasional / Lower-Value Customers
+CUST0135,144710.0,6,24118.333333333332,0,Occasional / Lower-Value Customers
+CUST0136,251455.0,7,35922.142857142855,0,Occasional / Lower-Value Customers
+CUST0137,136230.0,10,13623.0,0,Occasional / Lower-Value Customers
+CUST0138,208750.0,2,104375.0,2,High-AOV Customers
+CUST0139,1060225.0,9,117802.77777777778,2,High-AOV Customers
+CUST0140,83580.0,8,10447.5,0,Occasional / Lower-Value Customers
+CUST0141,281065.0,13,21620.384615384617,1,Frequent Customers
+CUST0142,277400.0,9,30822.222222222223,0,Occasional / Lower-Value Customers
+CUST0143,266855.0,15,17790.333333333332,1,Frequent Customers
+CUST0144,38110.0,5,7622.0,0,Occasional / Lower-Value Customers
+CUST0145,101200.0,6,16866.666666666668,0,Occasional / Lower-Value Customers
+CUST0146,258810.0,8,32351.25,0,Occasional / Lower-Value Customers
+CUST0147,46300.0,4,11575.0,0,Occasional / Lower-Value Customers
+CUST0148,159632.5,8,19954.0625,0,Occasional / Lower-Value Customers
+CUST0149,51540.0,6,8590.0,0,Occasional / Lower-Value Customers
+CUST0150,100620.0,5,20124.0,0,Occasional / Lower-Value Customers
+CUST0151,226500.0,5,45300.0,0,Occasional / Lower-Value Customers
+CUST0152,219257.5,14,15661.25,1,Frequent Customers
+CUST0153,65000.0,2,32500.0,0,Occasional / Lower-Value Customers
+CUST0154,95775.0,5,19155.0,0,Occasional / Lower-Value Customers
+CUST0155,349937.5,16,21871.09375,1,Frequent Customers
+CUST0156,193890.0,8,24236.25,0,Occasional / Lower-Value Customers
+CUST0157,176200.0,14,12585.714285714286,1,Frequent Customers
+CUST0158,331820.0,16,20738.75,1,Frequent Customers
+CUST0159,176210.0,4,44052.5,0,Occasional / Lower-Value Customers
+CUST0160,272275.0,18,15126.388888888889,1,Frequent Customers
+CUST0161,247857.5,16,15491.09375,1,Frequent Customers
+CUST0162,309820.0,12,25818.333333333332,1,Frequent Customers
+CUST0163,152965.0,10,15296.5,0,Occasional / Lower-Value Customers
+CUST0164,38010.0,4,9502.5,0,Occasional / Lower-Value Customers
+CUST0165,322875.0,12,26906.25,1,Frequent Customers
+CUST0166,547987.5,19,28841.447368421053,1,Frequent Customers
+CUST0167,462780.0,11,42070.90909090909,1,Frequent Customers
+CUST0168,286230.0,7,40890.0,0,Occasional / Lower-Value Customers
+CUST0169,447070.0,18,24837.222222222223,1,Frequent Customers
+CUST0170,6572975.0,16,410810.9375,3,High-Value Customers
+CUST0171,312190.0,9,34687.77777777778,0,Occasional / Lower-Value Customers
+CUST0172,172565.0,4,43141.25,0,Occasional / Lower-Value Customers
+CUST0173,869360.0,12,72446.66666666667,2,High-AOV Customers
+CUST0174,62640.0,5,12528.0,0,Occasional / Lower-Value Customers
+CUST0175,167460.0,11,15223.636363636364,0,Occasional / Lower-Value Customers
+CUST0176,110170.0,9,12241.111111111111,0,Occasional / Lower-Value Customers
+CUST0177,641375.0,6,106895.83333333333,2,High-AOV Customers
+CUST0178,105130.0,10,10513.0,0,Occasional / Lower-Value Customers
+CUST0179,762395.0,8,95299.375,2,High-AOV Customers
+CUST0180,23675.0,4,5918.75,0,Occasional / Lower-Value Customers
+CUST0181,147517.5,10,14751.75,0,Occasional / Lower-Value Customers
+CUST0182,99400.0,10,9940.0,0,Occasional / Lower-Value Customers
+CUST0183,204000.0,8,25500.0,0,Occasional / Lower-Value Customers
+CUST0184,90775.0,6,15129.166666666666,0,Occasional / Lower-Value Customers
+CUST0185,69687.5,8,8710.9375,0,Occasional / Lower-Value Customers
+CUST0186,220355.0,10,22035.5,0,Occasional / Lower-Value Customers
+CUST0187,128557.5,7,18365.35714285714,0,Occasional / Lower-Value Customers
+CUST0188,71120.0,3,23706.666666666668,0,Occasional / Lower-Value Customers
+CUST0189,194910.0,3,64970.0,2,High-AOV Customers
+CUST0190,454367.5,17,26727.5,1,Frequent Customers
+CUST0191,19940.0,5,3988.0,0,Occasional / Lower-Value Customers
+CUST0192,747405.0,8,93425.625,2,High-AOV Customers
+CUST0193,315675.0,8,39459.375,0,Occasional / Lower-Value Customers
+CUST0194,87100.0,2,43550.0,0,Occasional / Lower-Value Customers
+CUST0195,700225.0,13,53863.46153846154,1,Frequent Customers
+CUST0196,25195.0,4,6298.75,0,Occasional / Lower-Value Customers
+CUST0197,51810.0,4,12952.5,0,Occasional / Lower-Value Customers
+CUST0198,183135.0,9,20348.333333333332,0,Occasional / Lower-Value Customers
+CUST0199,107640.0,4,26910.0,0,Occasional / Lower-Value Customers
+CUST0200,332880.0,8,41610.0,0,Occasional / Lower-Value Customers
+CUST0201,243485.0,9,27053.88888888889,0,Occasional / Lower-Value Customers
+CUST0202,253060.0,5,50612.0,2,High-AOV Customers
+CUST0203,132902.5,12,11075.208333333334,1,Frequent Customers
+CUST0204,104422.5,8,13052.8125,0,Occasional / Lower-Value Customers
+CUST0205,17010.0,3,5670.0,0,Occasional / Lower-Value Customers
+CUST0206,168180.0,11,15289.09090909091,0,Occasional / Lower-Value Customers
+CUST0207,143565.0,5,28713.0,0,Occasional / Lower-Value Customers
+CUST0208,1411237.5,15,94082.5,2,High-AOV Customers
+CUST0209,179245.0,13,13788.076923076924,1,Frequent Customers
+CUST0210,18855.0,2,9427.5,0,Occasional / Lower-Value Customers
+CUST0211,299205.0,6,49867.5,2,High-AOV Customers
+CUST0212,99710.0,6,16618.333333333332,0,Occasional / Lower-Value Customers
+CUST0213,229045.0,9,25449.444444444445,0,Occasional / Lower-Value Customers
+CUST0214,344295.0,16,21518.4375,1,Frequent Customers
+CUST0215,378940.0,18,21052.222222222223,1,Frequent Customers
+CUST0216,292837.5,11,26621.590909090908,1,Frequent Customers
+CUST0217,292230.0,14,20873.571428571428,1,Frequent Customers
+CUST0218,196810.0,5,39362.0,0,Occasional / Lower-Value Customers
+CUST0219,270342.5,14,19310.178571428572,1,Frequent Customers
+CUST0220,436815.0,9,48535.0,2,High-AOV Customers
+CUST0221,153780.0,2,76890.0,2,High-AOV Customers
+CUST0222,56340.0,3,18780.0,0,Occasional / Lower-Value Customers
+CUST0223,460887.5,13,35452.88461538462,1,Frequent Customers
+CUST0224,406445.0,11,36949.545454545456,1,Frequent Customers
+CUST0225,295887.5,10,29588.75,0,Occasional / Lower-Value Customers
+CUST0226,14320.0,4,3580.0,0,Occasional / Lower-Value Customers
+CUST0227,88565.0,4,22141.25,0,Occasional / Lower-Value Customers
+CUST0228,750245.0,16,46890.3125,1,Frequent Customers
+CUST0229,1347560.0,16,84222.5,2,High-AOV Customers
+CUST0230,132980.0,9,14775.555555555555,0,Occasional / Lower-Value Customers
+CUST0231,28720.0,7,4102.857142857143,0,Occasional / Lower-Value Customers
+CUST0232,41962.5,6,6993.75,0,Occasional / Lower-Value Customers
+CUST0233,29565.0,5,5913.0,0,Occasional / Lower-Value Customers
+CUST0234,147810.0,5,29562.0,0,Occasional / Lower-Value Customers
+CUST0235,520075.0,10,52007.5,2,High-AOV Customers
+CUST0236,117150.0,4,29287.5,0,Occasional / Lower-Value Customers
+CUST0237,47520.0,2,23760.0,0,Occasional / Lower-Value Customers
+CUST0238,192880.0,11,17534.545454545456,1,Frequent Customers
+CUST0239,18375.0,2,9187.5,0,Occasional / Lower-Value Customers
+CUST0240,114285.0,6,19047.5,0,Occasional / Lower-Value Customers
+CUST0241,56640.0,4,14160.0,0,Occasional / Lower-Value Customers
+CUST0242,189190.0,6,31531.666666666668,0,Occasional / Lower-Value Customers
+CUST0243,396895.0,8,49611.875,2,High-AOV Customers
+CUST0244,722765.0,11,65705.90909090909,2,High-AOV Customers
+CUST0245,335600.0,6,55933.333333333336,2,High-AOV Customers
+CUST0246,105380.0,7,15054.285714285714,0,Occasional / Lower-Value Customers
+CUST0247,59530.0,3,19843.333333333332,0,Occasional / Lower-Value Customers
+CUST0248,134400.0,8,16800.0,0,Occasional / Lower-Value Customers
+CUST0249,268600.0,5,53720.0,2,High-AOV Customers
+CUST0250,715090.0,9,79454.44444444444,2,High-AOV Customers
+CUST0251,464520.0,22,21114.545454545456,1,Frequent Customers
+CUST0252,385615.0,14,27543.928571428572,1,Frequent Customers
+CUST0253,125350.0,6,20891.666666666668,0,Occasional / Lower-Value Customers
+CUST0254,37860.0,5,7572.0,0,Occasional / Lower-Value Customers
+CUST0255,59870.0,6,9978.333333333334,0,Occasional / Lower-Value Customers
+CUST0256,176005.0,13,13538.846153846154,1,Frequent Customers
+CUST0257,136390.0,9,15154.444444444445,0,Occasional / Lower-Value Customers
+CUST0258,140790.0,9,15643.333333333334,0,Occasional / Lower-Value Customers
+CUST0259,249695.0,15,16646.333333333332,1,Frequent Customers
+CUST0260,316100.0,5,63220.0,2,High-AOV Customers
+CUST0261,62910.0,3,20970.0,0,Occasional / Lower-Value Customers
+CUST0262,391907.5,8,48988.4375,2,High-AOV Customers
+CUST0263,257730.0,11,23430.0,1,Frequent Customers
+CUST0264,468270.0,12,39022.5,1,Frequent Customers
+CUST0265,118060.0,7,16865.714285714286,0,Occasional / Lower-Value Customers
+CUST0266,194847.5,4,48711.875,0,Occasional / Lower-Value Customers
+CUST0267,35280.0,7,5040.0,0,Occasional / Lower-Value Customers
+CUST0268,41947.5,5,8389.5,0,Occasional / Lower-Value Customers
+CUST0269,105835.0,7,15119.285714285714,0,Occasional / Lower-Value Customers
+CUST0270,12780.0,3,4260.0,0,Occasional / Lower-Value Customers
+CUST0271,113850.0,7,16264.285714285714,0,Occasional / Lower-Value Customers
+CUST0272,105722.5,4,26430.625,0,Occasional / Lower-Value Customers
+CUST0273,347635.0,13,26741.153846153848,1,Frequent Customers
+CUST0274,293605.0,18,16311.388888888889,1,Frequent Customers
+CUST0275,26720.0,3,8906.666666666666,0,Occasional / Lower-Value Customers
+CUST0276,85340.0,8,10667.5,0,Occasional / Lower-Value Customers
+CUST0277,49070.0,7,7010.0,0,Occasional / Lower-Value Customers
+CUST0278,367545.0,8,45943.125,2,High-AOV Customers
+CUST0279,98115.0,4,24528.75,0,Occasional / Lower-Value Customers
+CUST0280,118420.0,6,19736.666666666668,0,Occasional / Lower-Value Customers
+CUST0281,406635.0,17,23919.70588235294,1,Frequent Customers
+CUST0282,9620.0,3,3206.6666666666665,0,Occasional / Lower-Value Customers
+CUST0283,129020.0,5,25804.0,0,Occasional / Lower-Value Customers
+CUST0284,75612.5,10,7561.25,0,Occasional / Lower-Value Customers
+CUST0285,53390.0,4,13347.5,0,Occasional / Lower-Value Customers
+CUST0286,167760.0,6,27960.0,0,Occasional / Lower-Value Customers
+CUST0287,164215.0,13,12631.923076923076,1,Frequent Customers
+CUST0288,109800.0,3,36600.0,0,Occasional / Lower-Value Customers
+CUST0289,711547.5,21,33883.21428571428,1,Frequent Customers
+CUST0290,55305.0,3,18435.0,0,Occasional / Lower-Value Customers
+CUST0291,1254795.0,15,83653.0,2,High-AOV Customers
+CUST0292,460730.0,19,24248.947368421053,1,Frequent Customers
+CUST0293,279532.5,10,27953.25,0,Occasional / Lower-Value Customers
+CUST0294,21060.0,2,10530.0,0,Occasional / Lower-Value Customers
+CUST0295,281025.0,6,46837.5,0,Occasional / Lower-Value Customers
+CUST0296,39900.0,1,39900.0,0,Occasional / Lower-Value Customers
+CUST0297,78245.0,3,26081.666666666668,0,Occasional / Lower-Value Customers
+CUST0298,455405.0,17,26788.529411764706,1,Frequent Customers
+CUST0299,118190.0,7,16884.285714285714,0,Occasional / Lower-Value Customers
+CUST0300,124610.0,5,24922.0,0,Occasional / Lower-Value Customers
+CUST0301,310477.5,13,23882.884615384617,1,Frequent Customers
+CUST0302,348020.0,11,31638.18181818182,1,Frequent Customers
+CUST0303,398710.0,8,49838.75,2,High-AOV Customers
+CUST0304,264545.0,10,26454.5,0,Occasional / Lower-Value Customers
+CUST0305,1035900.0,8,129487.5,2,High-AOV Customers
+CUST0306,440545.0,7,62935.0,2,High-AOV Customers
+CUST0307,354810.0,11,32255.454545454544,1,Frequent Customers
+CUST0308,88150.0,7,12592.857142857143,0,Occasional / Lower-Value Customers
+CUST0309,32125.0,3,10708.333333333334,0,Occasional / Lower-Value Customers
+CUST0310,244770.0,7,34967.142857142855,0,Occasional / Lower-Value Customers
+CUST0311,92850.0,8,11606.25,0,Occasional / Lower-Value Customers
+CUST0312,187865.0,11,17078.636363636364,1,Frequent Customers
+CUST0313,185655.0,7,26522.14285714286,0,Occasional / Lower-Value Customers
+CUST0314,387007.5,17,22765.147058823528,1,Frequent Customers
+CUST0315,442565.0,17,26033.235294117647,1,Frequent Customers
+CUST0316,492727.5,10,49272.75,2,High-AOV Customers
+CUST0317,104640.0,5,20928.0,0,Occasional / Lower-Value Customers
+CUST0318,169020.0,7,24145.714285714286,0,Occasional / Lower-Value Customers
+CUST0319,661057.5,19,34792.5,1,Frequent Customers
+CUST0320,62430.0,4,15607.5,0,Occasional / Lower-Value Customers
+CUST0321,118080.0,5,23616.0,0,Occasional / Lower-Value Customers
+CUST0322,45495.0,4,11373.75,0,Occasional / Lower-Value Customers
+CUST0323,262605.0,6,43767.5,0,Occasional / Lower-Value Customers
+CUST0324,67045.0,5,13409.0,0,Occasional / Lower-Value Customers
+CUST0325,351510.0,15,23434.0,1,Frequent Customers
+CUST0326,94267.5,8,11783.4375,0,Occasional / Lower-Value Customers
+CUST0327,101970.0,5,20394.0,0,Occasional / Lower-Value Customers
+CUST0328,81480.0,4,20370.0,0,Occasional / Lower-Value Customers
+CUST0329,189515.0,7,27073.571428571428,0,Occasional / Lower-Value Customers
+CUST0330,52440.0,4,13110.0,0,Occasional / Lower-Value Customers
+CUST0331,12105.0,5,2421.0,0,Occasional / Lower-Value Customers
+CUST0332,315122.5,14,22508.75,1,Frequent Customers
+CUST0333,501332.5,14,35809.46428571428,1,Frequent Customers
+CUST0334,330160.0,20,16508.0,1,Frequent Customers
+CUST0335,910800.0,10,91080.0,2,High-AOV Customers
+CUST0336,44590.0,4,11147.5,0,Occasional / Lower-Value Customers
+CUST0337,176617.5,7,25231.071428571428,0,Occasional / Lower-Value Customers
+CUST0338,305040.0,14,21788.571428571428,1,Frequent Customers
+CUST0339,281375.0,5,56275.0,2,High-AOV Customers
+CUST0340,124650.0,10,12465.0,0,Occasional / Lower-Value Customers
+CUST0341,150762.5,12,12563.541666666666,1,Frequent Customers
+CUST0342,195670.0,6,32611.666666666668,0,Occasional / Lower-Value Customers
+CUST0343,509640.0,24,21235.0,1,Frequent Customers
+CUST0344,93360.0,6,15560.0,0,Occasional / Lower-Value Customers
+CUST0345,9320.0,3,3106.6666666666665,0,Occasional / Lower-Value Customers
+CUST0346,13800.0,3,4600.0,0,Occasional / Lower-Value Customers
+CUST0347,139980.0,7,19997.14285714286,0,Occasional / Lower-Value Customers
+CUST0348,53227.5,6,8871.25,0,Occasional / Lower-Value Customers
+CUST0349,296865.0,15,19791.0,1,Frequent Customers
+CUST0350,91905.0,4,22976.25,0,Occasional / Lower-Value Customers
+CUST0351,112240.0,9,12471.111111111111,0,Occasional / Lower-Value Customers
+CUST0352,160810.0,6,26801.666666666668,0,Occasional / Lower-Value Customers
+CUST0353,281425.0,14,20101.785714285714,1,Frequent Customers
+CUST0354,48340.0,6,8056.666666666667,0,Occasional / Lower-Value Customers
+CUST0355,142040.0,4,35510.0,0,Occasional / Lower-Value Customers
+CUST0356,175535.0,5,35107.0,0,Occasional / Lower-Value Customers
+CUST0357,69000.0,9,7666.666666666667,0,Occasional / Lower-Value Customers
+CUST0358,502185.0,14,35870.357142857145,1,Frequent Customers
+CUST0359,722482.5,22,32840.11363636364,1,Frequent Customers
+CUST0360,137765.0,6,22960.833333333332,0,Occasional / Lower-Value Customers
+CUST0361,203700.0,3,67900.0,2,High-AOV Customers
+CUST0362,750075.0,18,41670.833333333336,1,Frequent Customers
+CUST0363,329550.0,13,25350.0,1,Frequent Customers
+CUST0364,160735.0,7,22962.14285714286,0,Occasional / Lower-Value Customers
+CUST0365,234900.0,4,58725.0,2,High-AOV Customers
+CUST0366,85830.0,4,21457.5,0,Occasional / Lower-Value Customers
+CUST0367,15727.5,4,3931.875,0,Occasional / Lower-Value Customers
+CUST0368,593300.0,4,148325.0,2,High-AOV Customers
+CUST0369,50247.5,4,12561.875,0,Occasional / Lower-Value Customers
+CUST0370,271975.0,9,30219.444444444445,0,Occasional / Lower-Value Customers
+CUST0371,5055.0,2,2527.5,0,Occasional / Lower-Value Customers
+CUST0372,162152.5,12,13512.708333333334,1,Frequent Customers
+CUST0373,130230.0,5,26046.0,0,Occasional / Lower-Value Customers
+CUST0374,494097.5,22,22458.977272727272,1,Frequent Customers
+CUST0375,207970.0,10,20797.0,0,Occasional / Lower-Value Customers
+CUST0376,113380.0,7,16197.142857142857,0,Occasional / Lower-Value Customers
+CUST0377,63900.0,2,31950.0,0,Occasional / Lower-Value Customers
+CUST0378,327327.5,17,19254.558823529413,1,Frequent Customers
+CUST0379,85245.0,6,14207.5,0,Occasional / Lower-Value Customers
+CUST0380,141830.0,10,14183.0,0,Occasional / Lower-Value Customers
+CUST0381,15000.0,1,15000.0,0,Occasional / Lower-Value Customers
+CUST0382,247050.0,4,61762.5,2,High-AOV Customers
+CUST0383,392960.0,16,24560.0,1,Frequent Customers
+CUST0384,680555.0,9,75617.22222222222,2,High-AOV Customers
+CUST0385,235240.0,10,23524.0,0,Occasional / Lower-Value Customers
+CUST0386,235782.5,16,14736.40625,1,Frequent Customers
+CUST0387,77950.0,6,12991.666666666666,0,Occasional / Lower-Value Customers
+CUST0388,191535.0,13,14733.461538461539,1,Frequent Customers
+CUST0389,145205.0,4,36301.25,0,Occasional / Lower-Value Customers
+CUST0390,263580.0,8,32947.5,0,Occasional / Lower-Value Customers
+CUST0391,159215.0,8,19901.875,0,Occasional / Lower-Value Customers
+CUST0392,134150.0,10,13415.0,0,Occasional / Lower-Value Customers
+CUST0393,206400.0,7,29485.714285714286,0,Occasional / Lower-Value Customers
+CUST0394,175800.0,5,35160.0,0,Occasional / Lower-Value Customers
+CUST0395,220455.0,6,36742.5,0,Occasional / Lower-Value Customers
+CUST0396,240992.5,17,14176.029411764706,1,Frequent Customers
+CUST0397,45565.0,4,11391.25,0,Occasional / Lower-Value Customers
+CUST0398,255460.0,8,31932.5,0,Occasional / Lower-Value Customers
+CUST0399,101660.0,5,20332.0,0,Occasional / Lower-Value Customers
+CUST0400,190585.0,11,17325.909090909092,1,Frequent Customers
+CUST0401,298807.5,21,14228.92857142857,1,Frequent Customers
+CUST0402,291050.0,18,16169.444444444445,1,Frequent Customers
+CUST0403,117650.0,5,23530.0,0,Occasional / Lower-Value Customers
+CUST0404,314875.0,7,44982.142857142855,0,Occasional / Lower-Value Customers
+CUST0405,340652.5,17,20038.382352941175,1,Frequent Customers
+CUST0406,11700.0,1,11700.0,0,Occasional / Lower-Value Customers
+CUST0407,158060.0,8,19757.5,0,Occasional / Lower-Value Customers
+CUST0408,217810.0,7,31115.714285714286,0,Occasional / Lower-Value Customers
+CUST0409,95615.0,7,13659.285714285714,0,Occasional / Lower-Value Customers
+CUST0410,289615.0,16,18100.9375,1,Frequent Customers
+CUST0411,1140912.5,9,126768.05555555556,2,High-AOV Customers
+CUST0412,974472.5,9,108274.72222222222,2,High-AOV Customers
+CUST0413,347352.5,13,26719.423076923078,1,Frequent Customers
+CUST0414,35700.0,1,35700.0,0,Occasional / Lower-Value Customers
+CUST0415,743567.5,21,35407.97619047619,1,Frequent Customers
+CUST0416,86745.0,5,17349.0,0,Occasional / Lower-Value Customers
+CUST0417,99500.0,3,33166.666666666664,0,Occasional / Lower-Value Customers
+CUST0418,315900.0,6,52650.0,2,High-AOV Customers
+CUST0419,76467.5,5,15293.5,0,Occasional / Lower-Value Customers
+CUST0420,533760.0,12,44480.0,1,Frequent Customers
+CUST0421,219180.0,8,27397.5,0,Occasional / Lower-Value Customers
+CUST0422,285145.0,11,25922.272727272728,1,Frequent Customers
+CUST0423,380550.0,5,76110.0,2,High-AOV Customers
+CUST0424,13905.0,3,4635.0,0,Occasional / Lower-Value Customers
+CUST0425,251667.5,10,25166.75,0,Occasional / Lower-Value Customers
+CUST0426,252830.0,9,28092.222222222223,0,Occasional / Lower-Value Customers
+CUST0427,281725.0,10,28172.5,0,Occasional / Lower-Value Customers
+CUST0428,256140.0,6,42690.0,0,Occasional / Lower-Value Customers
+CUST0429,34860.0,6,5810.0,0,Occasional / Lower-Value Customers
+CUST0430,651350.0,4,162837.5,2,High-AOV Customers
+CUST0431,993555.0,18,55197.5,1,Frequent Customers
+CUST0432,298512.5,14,21322.321428571428,1,Frequent Customers
+CUST0433,26660.0,3,8886.666666666666,0,Occasional / Lower-Value Customers
+CUST0434,99585.0,6,16597.5,0,Occasional / Lower-Value Customers
+CUST0435,308955.0,7,44136.42857142857,0,Occasional / Lower-Value Customers
+CUST0436,183700.0,5,36740.0,0,Occasional / Lower-Value Customers
+CUST0437,92647.5,4,23161.875,0,Occasional / Lower-Value Customers
+CUST0438,99310.0,5,19862.0,0,Occasional / Lower-Value Customers
+CUST0439,126615.0,5,25323.0,0,Occasional / Lower-Value Customers
+CUST0440,169605.0,16,10600.3125,1,Frequent Customers
+CUST0441,287815.0,14,20558.214285714286,1,Frequent Customers
+CUST0442,303572.5,17,17857.20588235294,1,Frequent Customers
+CUST0443,402442.5,12,33536.875,1,Frequent Customers
+CUST0444,79552.5,7,11364.642857142857,0,Occasional / Lower-Value Customers
+CUST0445,55000.0,1,55000.0,0,Occasional / Lower-Value Customers
+CUST0447,219317.5,14,15665.535714285714,1,Frequent Customers
+CUST0448,43282.5,4,10820.625,0,Occasional / Lower-Value Customers
+CUST0449,87365.0,7,12480.714285714286,0,Occasional / Lower-Value Customers
+CUST0450,18300.0,2,9150.0,0,Occasional / Lower-Value Customers
+CUST0451,146250.0,9,16250.0,0,Occasional / Lower-Value Customers
+CUST0452,131180.0,9,14575.555555555555,0,Occasional / Lower-Value Customers
+CUST0453,39175.0,4,9793.75,0,Occasional / Lower-Value Customers
+CUST0454,156700.0,8,19587.5,0,Occasional / Lower-Value Customers
+CUST0455,184295.0,12,15357.916666666666,1,Frequent Customers
+CUST0456,273352.5,10,27335.25,0,Occasional / Lower-Value Customers
+CUST0457,436597.5,16,27287.34375,1,Frequent Customers
+CUST0458,83320.0,4,20830.0,0,Occasional / Lower-Value Customers
+CUST0459,179952.5,7,25707.5,0,Occasional / Lower-Value Customers
+CUST0460,511875.0,8,63984.375,2,High-AOV Customers
+CUST0461,471410.0,8,58926.25,2,High-AOV Customers
+CUST0462,94432.5,5,18886.5,0,Occasional / Lower-Value Customers
+CUST0463,351490.0,12,29290.833333333332,1,Frequent Customers
+CUST0464,44905.0,5,8981.0,0,Occasional / Lower-Value Customers
+CUST0465,229917.5,7,32845.357142857145,0,Occasional / Lower-Value Customers
+CUST0466,10215.0,4,2553.75,0,Occasional / Lower-Value Customers
+CUST0467,48590.0,5,9718.0,0,Occasional / Lower-Value Customers
+CUST0468,416107.5,15,27740.5,1,Frequent Customers
+CUST0469,356045.0,7,50863.57142857143,2,High-AOV Customers
+CUST0470,133750.0,7,19107.14285714286,0,Occasional / Lower-Value Customers
+CUST0471,161200.0,4,40300.0,0,Occasional / Lower-Value Customers
+CUST0472,83870.0,5,16774.0,0,Occasional / Lower-Value Customers
+CUST0473,133152.5,8,16644.0625,0,Occasional / Lower-Value Customers
+CUST0474,143260.0,14,10232.857142857143,1,Frequent Customers
+CUST0475,394255.0,16,24640.9375,1,Frequent Customers
+CUST0476,131725.0,9,14636.111111111111,0,Occasional / Lower-Value Customers
+CUST0478,120075.0,6,20012.5,0,Occasional / Lower-Value Customers
+CUST0479,184562.5,8,23070.3125,0,Occasional / Lower-Value Customers
+CUST0480,94820.0,5,18964.0,0,Occasional / Lower-Value Customers
+CUST0481,220642.5,8,27580.3125,0,Occasional / Lower-Value Customers
+CUST0482,380435.0,13,29264.23076923077,1,Frequent Customers
+CUST0483,592455.0,17,34850.294117647056,1,Frequent Customers
+CUST0484,200900.0,4,50225.0,0,Occasional / Lower-Value Customers
+CUST0485,263710.0,6,43951.666666666664,0,Occasional / Lower-Value Customers
+CUST0486,74680.0,4,18670.0,0,Occasional / Lower-Value Customers
+CUST0487,91105.0,6,15184.166666666666,0,Occasional / Lower-Value Customers
+CUST0488,68760.0,4,17190.0,0,Occasional / Lower-Value Customers
+CUST0489,492955.0,17,28997.352941176472,1,Frequent Customers
+CUST0490,41502.5,7,5928.928571428572,0,Occasional / Lower-Value Customers
+CUST0491,123845.0,8,15480.625,0,Occasional / Lower-Value Customers
+CUST0492,96085.0,5,19217.0,0,Occasional / Lower-Value Customers
+CUST0493,21112.5,7,3016.0714285714284,0,Occasional / Lower-Value Customers
+CUST0494,27990.0,3,9330.0,0,Occasional / Lower-Value Customers
+CUST0495,22000.0,8,2750.0,0,Occasional / Lower-Value Customers
+CUST0496,140930.0,4,35232.5,0,Occasional / Lower-Value Customers
+CUST0497,108010.0,4,27002.5,0,Occasional / Lower-Value Customers
+CUST0498,32030.0,4,8007.5,0,Occasional / Lower-Value Customers
+CUST0499,162025.0,6,27004.166666666668,0,Occasional / Lower-Value Customers
+CUST0500,98290.0,7,14041.42857142857,0,Occasional / Lower-Value Customers
+CUST0501,316060.0,16,19753.75,1,Frequent Customers
+CUST0502,215680.0,4,53920.0,2,High-AOV Customers
+CUST0503,273195.0,12,22766.25,1,Frequent Customers
+CUST0504,100927.5,5,20185.5,0,Occasional / Lower-Value Customers
+CUST0505,255032.5,5,51006.5,2,High-AOV Customers
+CUST0506,153640.0,3,51213.333333333336,0,Occasional / Lower-Value Customers
+CUST0507,153185.0,8,19148.125,0,Occasional / Lower-Value Customers
+CUST0508,131380.0,10,13138.0,0,Occasional / Lower-Value Customers
+CUST0509,342315.0,10,34231.5,1,Frequent Customers
+CUST0510,264485.0,16,16530.3125,1,Frequent Customers
+CUST0511,389517.5,9,43279.72222222222,2,High-AOV Customers
+CUST0512,32400.0,1,32400.0,0,Occasional / Lower-Value Customers
+CUST0513,381915.0,8,47739.375,2,High-AOV Customers
+CUST0514,143505.0,5,28701.0,0,Occasional / Lower-Value Customers
+CUST0515,195400.0,7,27914.285714285714,0,Occasional / Lower-Value Customers
+CUST0516,893750.0,20,44687.5,1,Frequent Customers
+CUST0517,60940.0,3,20313.333333333332,0,Occasional / Lower-Value Customers
+CUST0518,148720.0,5,29744.0,0,Occasional / Lower-Value Customers
+CUST0519,270702.5,11,24609.31818181818,1,Frequent Customers
+CUST0520,418157.5,14,29868.39285714286,1,Frequent Customers
+CUST0521,366235.0,17,21543.235294117647,1,Frequent Customers
+CUST0522,810805.0,16,50675.3125,1,Frequent Customers
+CUST0523,198740.0,9,22082.222222222223,0,Occasional / Lower-Value Customers
+CUST0524,57420.0,3,19140.0,0,Occasional / Lower-Value Customers
+CUST0525,69150.0,6,11525.0,0,Occasional / Lower-Value Customers
+CUST0526,91515.0,7,13073.57142857143,0,Occasional / Lower-Value Customers
+CUST0527,74110.0,11,6737.272727272727,0,Occasional / Lower-Value Customers
+CUST0528,345252.5,19,18171.184210526317,1,Frequent Customers
+CUST0529,206045.0,8,25755.625,0,Occasional / Lower-Value Customers
+CUST0530,47712.5,7,6816.071428571428,0,Occasional / Lower-Value Customers
+CUST0531,489777.5,16,30611.09375,1,Frequent Customers
+CUST0532,64367.5,7,9195.357142857143,0,Occasional / Lower-Value Customers
+CUST0533,50107.5,5,10021.5,0,Occasional / Lower-Value Customers
+CUST0534,23420.0,3,7806.666666666667,0,Occasional / Lower-Value Customers
+CUST0535,223685.0,15,14912.333333333334,1,Frequent Customers
+CUST0536,302067.5,5,60413.5,2,High-AOV Customers
+CUST0537,237980.0,16,14873.75,1,Frequent Customers
+CUST0538,173635.0,15,11575.666666666666,1,Frequent Customers
+CUST0539,98400.0,4,24600.0,0,Occasional / Lower-Value Customers
+CUST0540,264930.0,15,17662.0,1,Frequent Customers
+CUST0541,288062.5,8,36007.8125,0,Occasional / Lower-Value Customers
+CUST0542,236410.0,12,19700.833333333332,1,Frequent Customers
+CUST0543,528475.0,14,37748.21428571428,1,Frequent Customers
+CUST0544,116220.0,9,12913.333333333334,0,Occasional / Lower-Value Customers
+CUST0545,222915.0,7,31845.0,0,Occasional / Lower-Value Customers
+CUST0546,31350.0,1,31350.0,0,Occasional / Lower-Value Customers
+CUST0547,70400.0,4,17600.0,0,Occasional / Lower-Value Customers
+CUST0548,173125.0,7,24732.14285714286,0,Occasional / Lower-Value Customers
+CUST0549,44597.5,8,5574.6875,0,Occasional / Lower-Value Customers
+CUST0550,83210.0,6,13868.333333333334,0,Occasional / Lower-Value Customers
+CUST0551,237440.0,6,39573.333333333336,0,Occasional / Lower-Value Customers
+CUST0552,341550.0,7,48792.857142857145,2,High-AOV Customers
+CUST0553,714385.0,20,35719.25,1,Frequent Customers
+CUST0554,41790.0,4,10447.5,0,Occasional / Lower-Value Customers
+CUST0555,313500.0,11,28500.0,1,Frequent Customers
+CUST0556,240385.0,14,17170.35714285714,1,Frequent Customers
+CUST0557,317615.0,9,35290.555555555555,0,Occasional / Lower-Value Customers
+CUST0558,31220.0,4,7805.0,0,Occasional / Lower-Value Customers
+CUST0559,143137.5,7,20448.214285714286,0,Occasional / Lower-Value Customers
+CUST0560,247370.0,12,20614.166666666668,1,Frequent Customers
+CUST0561,140555.0,9,15617.222222222223,0,Occasional / Lower-Value Customers
+CUST0562,88980.0,7,12711.42857142857,0,Occasional / Lower-Value Customers
+CUST0563,135545.0,6,22590.833333333332,0,Occasional / Lower-Value Customers
+CUST0564,101480.0,6,16913.333333333332,0,Occasional / Lower-Value Customers
+CUST0565,716605.0,14,51186.07142857143,1,Frequent Customers
+CUST0566,273565.0,4,68391.25,2,High-AOV Customers
+CUST0567,519370.0,6,86561.66666666667,2,High-AOV Customers
+CUST0568,55550.0,4,13887.5,0,Occasional / Lower-Value Customers
+CUST0569,175690.0,8,21961.25,0,Occasional / Lower-Value Customers
+CUST0570,233615.0,6,38935.833333333336,0,Occasional / Lower-Value Customers
+CUST0571,99730.0,3,33243.333333333336,0,Occasional / Lower-Value Customers
+CUST0572,385287.5,7,55041.07142857143,2,High-AOV Customers
+CUST0573,165120.0,13,12701.538461538461,1,Frequent Customers
+CUST0574,441400.0,9,49044.444444444445,2,High-AOV Customers
+CUST0575,47950.0,2,23975.0,0,Occasional / Lower-Value Customers
+CUST0576,185730.0,11,16884.545454545456,1,Frequent Customers
+CUST0577,217675.0,9,24186.11111111111,0,Occasional / Lower-Value Customers
+CUST0578,64215.0,3,21405.0,0,Occasional / Lower-Value Customers
+CUST0579,161935.0,7,23133.571428571428,0,Occasional / Lower-Value Customers
+CUST0580,93210.0,6,15535.0,0,Occasional / Lower-Value Customers
+CUST0581,447655.0,14,31975.35714285714,1,Frequent Customers
+CUST0582,40105.0,4,10026.25,0,Occasional / Lower-Value Customers
+CUST0583,436290.0,12,36357.5,1,Frequent Customers
+CUST0584,65040.0,4,16260.0,0,Occasional / Lower-Value Customers
+CUST0585,558960.0,16,34935.0,1,Frequent Customers
+CUST0586,311597.5,14,22256.964285714286,1,Frequent Customers
+CUST0587,183870.0,8,22983.75,0,Occasional / Lower-Value Customers
+CUST0588,53732.5,3,17910.833333333332,0,Occasional / Lower-Value Customers
+CUST0589,157077.5,9,17453.055555555555,0,Occasional / Lower-Value Customers
+CUST0590,196665.0,7,28095.0,0,Occasional / Lower-Value Customers
+CUST0591,5325.0,2,2662.5,0,Occasional / Lower-Value Customers
+CUST0592,120615.0,5,24123.0,0,Occasional / Lower-Value Customers
+CUST0593,133860.0,4,33465.0,0,Occasional / Lower-Value Customers
+CUST0594,445705.0,13,34285.0,1,Frequent Customers
+CUST0595,68180.0,4,17045.0,0,Occasional / Lower-Value Customers
+CUST0596,519625.0,13,39971.153846153844,1,Frequent Customers
+CUST0597,243922.5,14,17423.035714285714,1,Frequent Customers
+CUST0598,405635.0,13,31202.69230769231,1,Frequent Customers
+CUST0599,452420.0,20,22621.0,1,Frequent Customers
+CUST0600,171470.0,8,21433.75,0,Occasional / Lower-Value Customers

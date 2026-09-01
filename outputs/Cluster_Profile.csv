@@ -1,0 +1,5 @@
+Cluster,Total_Sales,Order_Count,Average_Order_Value,Cluster Name,Recommendation
+0,121451.44385026737,5.93048128342246,20393.697702290283,Occasional / Lower-Value Customers,Use targeted reactivation campaigns and simple offers to encourage repeat purchases.
+1,378194.9346405229,14.928104575163399,25251.218454249723,Frequent Customers,Use replenishment reminders and loyalty incentives to increase basket value.
+2,504757.38970588235,6.970588235294118,72441.91312680376,High-AOV Customers,Promote premium bundles and complementary products to grow high-value baskets.
+3,6572975.0,16.0,410810.9375,High-Value Customers,"Protect retention with VIP treatment, loyalty benefits and personalized cross-sell offers."

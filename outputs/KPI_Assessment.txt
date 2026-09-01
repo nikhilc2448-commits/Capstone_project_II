@@ -1,0 +1,5 @@
+Best-performing KPI: Repeat Customer Rate
+Repeat Customer Rate is the strongest customer-health KPI because 98.83% of customers with orders are repeat customers, indicating strong repeat purchasing behavior.
+
+Worst-performing KPI: Return/Cancel Rate
+Return/Cancel Rate is the clearest improvement opportunity because 13.92% of orders are cancelled or returned, which can create avoidable service and profitability pressure.

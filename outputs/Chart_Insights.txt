@@ -1,0 +1,19 @@
+CHART INSIGHTS
+
+1. Region comparison:
+South generated ₹77,071,377.50 in sales, the highest among the regions.
+
+2. Trend over time:
+2026-06 recorded the highest monthly sales at ₹16,729,125.00.
+
+3. Distribution:
+The median order sales value is ₹10,800.00, below the mean of ₹28,882.84, showing the effect of high-value orders.
+
+4. Relationship:
+Sales and Profit have a correlation of -0.21, which shows only a weak linear relationship in this dataset.
+
+5. Outlier view:
+393 orders are flagged as Sales outliers using the 1.5×IQR rule.
+
+6. Correlation heatmap:
+Profit and Profit per Unit have a correlation of 0.68; this is the strongest positive relationship above the 0.3 threshold.
